@@ -62,11 +62,11 @@ body {
 }
 
 .blackbg .checkbox h2 {
-  color: #fff;
+  color: #587498;
 }
 
 .blackbg .checkbox .buttons .blue {
-  background-color: #192988;
+  background-color: #587498;
 }
 
 .blackbg .checkbox .buttons .blue:hover {
@@ -74,7 +74,7 @@ body {
 }
 
 .blackbg .checkbox .buttons .red {
-  background-color: #ad0c12;
+  background-color: #9e231e;
 }
 
 .blackbg .checkbox .buttons .red:hover {
