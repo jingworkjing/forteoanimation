@@ -40,7 +40,7 @@ body {
   width: 600px;
   height: 400px;
   border-radius: 10px;
-  background-color: #5a7cac;
+  background-color: #ecdc5a;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -57,7 +57,8 @@ body {
 }
 
 .blackbg .checkbox img {
-  width: 100px;
+  width: 250px;
+  transform: rotate(-7deg);
 }
 
 .blackbg .checkbox h2 {
