@@ -18,7 +18,10 @@ body {
 .video {
   width: 85%;
 }
-
+iframe {
+  min-height: 100vh;
+  width: 85%;
+}
 .blackbg {
   position: absolute;
   width: 100%;
